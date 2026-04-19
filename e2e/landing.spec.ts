@@ -35,7 +35,7 @@ test.describe("ClarityBridge Landing Page", () => {
 
   test("hero CTA buttons are present", async ({ page }) => {
     await expect(
-      page.getByRole("link", { name: /book a discovery call/i })
+      page.getByRole("link", { name: /book a discovery call/i }).first()
     ).toBeVisible();
     await expect(
       page.getByRole("link", { name: /explore services/i })
