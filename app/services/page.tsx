@@ -1,7 +1,6 @@
 /**
- * /services — Scaffolded page (not linked in nav yet).
- * To activate: add a link in Header.tsx and Footer.tsx navLinks arrays.
- * Expand this page with full service details, case studies, etc.
+ * /services — Full services page, linked in nav.
+ * Expand with case studies, pricing tiers, etc. as needed.
  */
 import { Header } from "@/components/Header";
 import { Services } from "@/components/Services";
