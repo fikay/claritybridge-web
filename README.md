@@ -2,7 +2,7 @@
 
 Modern, responsive marketing site for **ClarityBridge** — an HR & strategic advisory firm serving nonprofits and small businesses in Canada.
 
-**Live site:** https://claritybridge-web.vercel.app  
+**Live site:** https://claritybridge.vercel.app  
 **GitHub:** https://github.com/fikay/claritybridge-web
 
 ---
