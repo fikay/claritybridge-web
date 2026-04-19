@@ -3,8 +3,8 @@ import { Separator } from "@/components/ui/separator";
 
 const navLinks = [
   { label: "Who We Serve", href: "#who-we-serve" },
-  { label: "Services", href: "/services" },
-  { label: "About", href: "/about" },
+  { label: "Services", href: "#services" },
+  { label: "About", href: "#about" },
   { label: "Contact", href: "#contact" },
 ];
 

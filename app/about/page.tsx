@@ -1,6 +1,7 @@
 /**
- * /about — Full about page, linked in nav.
- * Expand with team bios, photos, values, story, etc. as needed.
+ * /about — Scaffolded page (not linked in nav yet).
+ * To activate: add a link in Header.tsx and Footer.tsx navLinks arrays.
+ * Expand this page with team bios, photos, values, story, etc.
  */
 import { Header } from "@/components/Header";
 import { About } from "@/components/About";
