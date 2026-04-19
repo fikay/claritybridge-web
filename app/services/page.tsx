@@ -26,7 +26,7 @@ export default function ServicesPage() {
           </h1>
           <p className="text-primary-foreground/75 text-lg max-w-xl mx-auto">
             Flexible, result-driven advisory support tailored to your
-            organization's stage and sector.
+            organization&apos;s stage and sector.
           </p>
         </div>
         <Services />

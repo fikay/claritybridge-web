@@ -94,7 +94,7 @@ export function Testimonials() {
               <CardContent className="pt-6 pb-6 flex flex-col gap-4">
                 <Quote size={28} className="text-accent opacity-80" />
                 <p className="text-primary-foreground/85 leading-relaxed italic text-sm">
-                  "{t.quote}"
+                  &ldquo;{t.quote}&rdquo;
                 </p>
                 <div className="flex items-center gap-3 mt-2">
                   {/* Avatar placeholder */}

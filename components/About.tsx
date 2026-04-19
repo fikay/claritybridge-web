@@ -65,8 +65,8 @@ export function About() {
               unnecessary complexity.
             </p>
             <p className="reveal font-heading text-xl font-semibold text-primary italic">
-              "We help business owners sleep better at night by taking HR and
-              program management off their plate."
+              &ldquo;We help business owners sleep better at night by taking HR and
+              program management off their plate.&rdquo;
             </p>
           </div>
 

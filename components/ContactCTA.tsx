@@ -53,7 +53,7 @@ export function ContactCTA() {
           {/* Left — CTA copy */}
           <div>
             <p className="reveal text-accent font-sans font-semibold text-sm tracking-widest uppercase mb-3">
-              Let's Talk
+              Let&apos;s Talk
             </p>
             <h2
               id="contact-heading"
@@ -98,7 +98,7 @@ export function ContactCTA() {
                   Message sent!
                 </p>
                 <p className="text-muted-foreground text-sm">
-                  Your email client should have opened. We'll get back to you
+                  Your email client should have opened. We&apos;ll get back to you
                   shortly.
                 </p>
                 <Button
